@@ -1,4 +1,4 @@
-# Hi, I'm Malak! 👋
+# Hi, I'm Malak! 
 
 I’m an Information Technology and Computing student with a deep interest in software engineering and problem-solving. I love building things with code and exploring how technology can solve real-world problems.
 
